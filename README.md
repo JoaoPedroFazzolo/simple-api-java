@@ -15,7 +15,7 @@ teste
 docker compose up --build
 ```
 
-## Testes unitários (validação)
+## Testes unitários
 
 ./mvnw test
 
